@@ -1,0 +1,2449 @@
+fileFormatVersion: 2
+guid: 80edc81f5aedcdc42976d6fa7a01295b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Outdoor_Decor_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 388
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d090c1fdebd785479633777abe0fd38
+      internalID: -135546124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 388
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169ac6aa6c8f65e4ea4ee47d4a5fa882
+      internalID: -1681036887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 385
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe4c37bc0598084881ffedec2890a4a
+      internalID: -691113458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 388
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8acf800864562419b20e345cadc19c
+      internalID: -1877743474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 388
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6e202c13828cf439e812f98ce3dad6
+      internalID: 2059995605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 385
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb910d22af5da884f853b72845d11e0c
+      internalID: 618347170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 372
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95db2bcf24c54d241905526e49258314
+      internalID: -477232746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 372
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2edb2d95f573ea4d9ca6b1c59046a98
+      internalID: 174636267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 369
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff7668919941ab41a8f69431f1295af
+      internalID: -1215119405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_12
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 372
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f687efe9f45314185aedf613287353
+      internalID: 266994642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 372
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b0599812c8b124da94debb859cc7be
+      internalID: -2035203967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 369
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818d2145e69652341a035d8216c2d901
+      internalID: -488522734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 371
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925bd190f32f8234190c14d240fbffc7
+      internalID: -1399160045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_17
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 371
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ed8ff7f004bca499ae2e90a9e50eae
+      internalID: 1527341491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_18
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 371
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0251192433605ed4cb55ed26713148c5
+      internalID: 244063576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 358
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1058d342bbeba9408bd98e72a77662c
+      internalID: -1809375626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_20
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 358
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc98fecaba27d2419f1bc6f8167d303
+      internalID: -133177541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_22
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 356
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a786ea99032614188bb38ab27e9095
+      internalID: 320324620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_23
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 356
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0dbb253a9eddf543926f0ff63c09d9e
+      internalID: -1330161112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 356
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2d04110e04a134c92f2e9c44c13c85
+      internalID: -2019741389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 353
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398882d22c608504788de8bb9fa33354
+      internalID: 1558387655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_27
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 354
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4937a7b02e049a942b7e934cd12c0f08
+      internalID: -704194319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_28
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 353
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cda069a2276ef94ea386743c74f6ea6
+      internalID: 1458883648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_29
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 353
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06284b6669a31984ebfc2ab278b675ef
+      internalID: 1827848135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 339
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c27bc703f261954d9746a42438c5231
+      internalID: -107803974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_31
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 339
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9371bcc99be1c43a1dcdc7b15d7e12
+      internalID: -1833679620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_32
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 339
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8df99fe589f304bbcfaeb3957c2b7a
+      internalID: -645644021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_33
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 340
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e713a5eeb4fd34db40d4f80111993e
+      internalID: -1185433730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 336
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee6c1695a5d22546a3a8d773adfbfe5
+      internalID: 1387668303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_35
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 340
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233e8608964cf294bacb5075d9ab477a
+      internalID: 1498225697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_36
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 338
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e9beca6daa9444d8dbb4256930fe2e
+      internalID: -1437791369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_37
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 337
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6611973a629023a478ce10e47a861dee
+      internalID: 413109252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_38
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 337
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5867abf4aefeef40874c06679917d1a
+      internalID: 799077988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_39
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 325
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562260274ae660244ac0d66b0b438313
+      internalID: 1287776017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_40
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 325
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548f81e4f7e0ee04e96faaee1f6918fd
+      internalID: 1887126633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_41
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 325
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52dc9464fb83d63449afd6153228f0f0
+      internalID: -1369909367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_42
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 320
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a14d5ccb466974eb5d9cfe1383f6a0
+      internalID: -540999490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_43
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 323
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8800f729f663d47801ceec6e4dfdc4
+      internalID: -714153285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 321
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f09bef0c567e104abf0ba7c90fc0d6a
+      internalID: 1603690132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_45
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 322
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1aee783a9b67884b9f509409740fbe7
+      internalID: 2039997934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_46
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 323
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582692f260c9a9949a743aa8ce809a2d
+      internalID: 70913510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_47
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 321
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c7c5a017d38344ab865ca2311475d5
+      internalID: 25406581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 308
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14961010707741a4dbc029845e8a222a
+      internalID: -1337886058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_49
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 307
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddc182446a486043aa9608dac8a06a7
+      internalID: 391687556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_50
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 308
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a33762c9259ed34980ad41504462dc0
+      internalID: -1839343860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_51
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 308
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3a1179ca14254498d3b637fb2da528
+      internalID: 393731282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_52
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 305
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a3ae032be977446ab12e033eef8826
+      internalID: -1789604340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_53
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 305
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78f82916a51954469886a05a13e3694
+      internalID: 1931885825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_54
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 306
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc13c17ff8275742bd36f063deb03b5
+      internalID: -1792972538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_55
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 307
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bb12507454ad34492388627490e56f
+      internalID: -794339314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 304
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4535a4a57d069c140abf36fbded5c739
+      internalID: -256073722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_58
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 272
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12fe2a794a60a145a152f55f219f8a4
+      internalID: 1745723969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_59
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 292
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1fbfebfc332f3428aafccd4d2fdb46
+      internalID: -884622443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_60
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 289
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982e1ec94ec362548840213e7ac35fd1
+      internalID: 208561526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_61
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 290
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fdbc4179468bf4a88a0524dfa32c6d
+      internalID: -1373250987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_62
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 290
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c075111ffda2fb14c89146fddf701469
+      internalID: -1460309230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_63
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 290
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6edc8f6aaac4b84db5f3eba4f1db583
+      internalID: 1401839987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_64
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 291
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3720eaba110b4548a6bc0907073307c
+      internalID: 30258259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_65
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 288
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604ef7ab0bc7721459195f663995cf3a
+      internalID: 693810372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_66
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 272
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f877a2927aa394abd92b7ad0f76659
+      internalID: -250449677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_67
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 274
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3674a0ff9b21a94ebe01250e1ccb042
+      internalID: -144288255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_68
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 275
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c351b5e2a2d1e4a8dfb6142d4d817c
+      internalID: -1946001986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_69
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 276
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7704b8e4efc3adf45b0c28932a87c3b1
+      internalID: -1708491690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_70
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 273
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127b4ac3c28df1b419db645ff877c1cc
+      internalID: -1893260573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_71
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 258
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23a4cf597e840b4f8cbc75864c52650
+      internalID: 1457669654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_72
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 258
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfbfb9f675c8f14ea9c8901cdd43f50
+      internalID: 1457210002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_73
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 258
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b8ee1272379244b95ef0dacd8c897b
+      internalID: 971999826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_74
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 257
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60ece9baee2cb646bd1a5fcea8e1819
+      internalID: 44895848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_75
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 257
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2dd53a2bf5e0d43948a560541d92c2
+      internalID: -1866094740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_76
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 257
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382df80b18c2c024098b9ae9de25aaf9
+      internalID: -656179957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26db0a824dc375942918f17793ec74d2
+      internalID: -1060345907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_78
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c89fe3fab190e438251235c404fced
+      internalID: 1740417065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_79
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 224
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd752a70dea1d146af9be258550d6ab
+      internalID: -1797831115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_80
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 241
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b6c17a76452094ea184239cda2371b
+      internalID: -1574119490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_81
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 224
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f643faf9a24154e8d797d943a9bbe8
+      internalID: 678836924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_82
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 241
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3e231656b4d7f4ea4a0d1a5efd9ddf
+      internalID: 1250482574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_83
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 241
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b084e835382144478e9b1228085fb02
+      internalID: -1073032934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_84
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 241
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345d3ec59d92b764ca2dab9cd7a3a4ee
+      internalID: 1980908415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_85
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 224
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e6ebf54e77be94c8001bddde4ecd47
+      internalID: 663244839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_86
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 177
+        width: 15
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce28fdc8c1a7514a9f079380b94b441
+      internalID: -845976453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_87
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 208
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a04005c910cfd4ea135cc7e521b7ae
+      internalID: 979668291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_88
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 208
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd7360595bc3034cb4570307fad97a7
+      internalID: -1169718707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_89
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 195
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa2db71d2c7daf469f682977c40f028
+      internalID: 567559544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_90
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 196
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb778dbdbe22c3448a0665e04f6eeb7
+      internalID: -1467288939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_91
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 179
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc4b92024c62c14d9ef8af9ec7df093
+      internalID: 590798273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_92
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 179
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7139d3e6ed239e641bc92ac66401c62a
+      internalID: -948418938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_93
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 179
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edfcc36906eda74ebc7a7c679bd7b8d
+      internalID: 2069613567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_94
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 179
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbb77bb9c041074685aab6a74ffc789
+      internalID: 2049963904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_95
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 162
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74c7c4b668a16a4b92d8cd7ee2ad150
+      internalID: -928220826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_96
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 164
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4633ad348cc5e9442b01368b0d5f89c7
+      internalID: -183156266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_97
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 147
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d068656580652fb479d859a58951cf24
+      internalID: 1136273386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_98
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 147
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d944b02af6498ae4a955e54390dd89c0
+      internalID: -918399555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_99
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 147
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0e66c7f05e3244082211ea8759099a
+      internalID: 459838921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_100
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 147
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66c062e3c08bbc4a82ba6ecc68735e5
+      internalID: 590056516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_101
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 129
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5fa5cf46b360b49a740be0d5093e4a
+      internalID: 1984020080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_102
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 99
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea87290594ad8246be9c02e8b3ecaff
+      internalID: -1702819692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_103
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 99
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953b9778fff9ced4e921782159b57303
+      internalID: 2112395433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_104
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 83
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a90b0fc7cb218469eeffe0b0dfd0b5
+      internalID: -1210551306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_105
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 51
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0602a6b8af7de24b8e5dd0431ab9bd6
+      internalID: -1830440390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_106
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 51
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a842798a97a7446b36e76a92cf7a13
+      internalID: 596911868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_107
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f048fbd7398de46bf38896fa8f8203
+      internalID: 45010063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_108
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 3
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d847c62c0b444a43b79bc86279966c4
+      internalID: 125603118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a09a0cd57977054b884ebf453cf4ee2
+      internalID: 90143350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 290
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a9bb0b461ee31449e6eccdff223234
+      internalID: -653277435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 240
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8e522fea223d74ab4ec3d123761895
+      internalID: 903691343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoor_Decor_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 241
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95d7821c9d03a545b28d9b38e31a24d
+      internalID: -895533502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Outdoor_Decor_0: -135546124
+      Outdoor_Decor_1: -1681036887
+      Outdoor_Decor_10: 903691343
+      Outdoor_Decor_100: 590056516
+      Outdoor_Decor_101: 1984020080
+      Outdoor_Decor_102: -1702819692
+      Outdoor_Decor_103: 2112395433
+      Outdoor_Decor_104: -1210551306
+      Outdoor_Decor_105: -1830440390
+      Outdoor_Decor_106: 596911868
+      Outdoor_Decor_107: 45010063
+      Outdoor_Decor_108: 125603118
+      Outdoor_Decor_11: -1215119405
+      Outdoor_Decor_12: 266994642
+      Outdoor_Decor_13: -2035203967
+      Outdoor_Decor_14: -895533502
+      Outdoor_Decor_15: -488522734
+      Outdoor_Decor_16: -1399160045
+      Outdoor_Decor_17: 1527341491
+      Outdoor_Decor_18: 244063576
+      Outdoor_Decor_19: -1809375626
+      Outdoor_Decor_2: 90143350
+      Outdoor_Decor_20: -133177541
+      Outdoor_Decor_21: 2029732097
+      Outdoor_Decor_22: 320324620
+      Outdoor_Decor_23: -1330161112
+      Outdoor_Decor_24: -2019741389
+      Outdoor_Decor_25: -686965019
+      Outdoor_Decor_26: 1558387655
+      Outdoor_Decor_27: -704194319
+      Outdoor_Decor_28: 1458883648
+      Outdoor_Decor_29: 1827848135
+      Outdoor_Decor_3: -691113458
+      Outdoor_Decor_30: -107803974
+      Outdoor_Decor_31: -1833679620
+      Outdoor_Decor_32: -645644021
+      Outdoor_Decor_33: -1185433730
+      Outdoor_Decor_34: 1387668303
+      Outdoor_Decor_35: 1498225697
+      Outdoor_Decor_36: -1437791369
+      Outdoor_Decor_37: 413109252
+      Outdoor_Decor_38: 799077988
+      Outdoor_Decor_39: 1287776017
+      Outdoor_Decor_4: -1877743474
+      Outdoor_Decor_40: 1887126633
+      Outdoor_Decor_41: -1369909367
+      Outdoor_Decor_42: -540999490
+      Outdoor_Decor_43: -714153285
+      Outdoor_Decor_44: 1603690132
+      Outdoor_Decor_45: 2039997934
+      Outdoor_Decor_46: 70913510
+      Outdoor_Decor_47: 25406581
+      Outdoor_Decor_48: -1337886058
+      Outdoor_Decor_49: 391687556
+      Outdoor_Decor_5: 2059995605
+      Outdoor_Decor_50: -1839343860
+      Outdoor_Decor_51: 393731282
+      Outdoor_Decor_52: -1789604340
+      Outdoor_Decor_53: 1931885825
+      Outdoor_Decor_54: -1792972538
+      Outdoor_Decor_55: -794339314
+      Outdoor_Decor_56: -256073722
+      Outdoor_Decor_57: -2088564451
+      Outdoor_Decor_58: 1745723969
+      Outdoor_Decor_59: -884622443
+      Outdoor_Decor_6: -653277435
+      Outdoor_Decor_60: 208561526
+      Outdoor_Decor_61: -1373250987
+      Outdoor_Decor_62: -1460309230
+      Outdoor_Decor_63: 1401839987
+      Outdoor_Decor_64: 30258259
+      Outdoor_Decor_65: 693810372
+      Outdoor_Decor_66: -250449677
+      Outdoor_Decor_67: -144288255
+      Outdoor_Decor_68: -1946001986
+      Outdoor_Decor_69: -1708491690
+      Outdoor_Decor_7: 618347170
+      Outdoor_Decor_70: -1893260573
+      Outdoor_Decor_71: 1457669654
+      Outdoor_Decor_72: 1457210002
+      Outdoor_Decor_73: 971999826
+      Outdoor_Decor_74: 44895848
+      Outdoor_Decor_75: -1866094740
+      Outdoor_Decor_76: -656179957
+      Outdoor_Decor_77: -1060345907
+      Outdoor_Decor_78: 1740417065
+      Outdoor_Decor_79: -1797831115
+      Outdoor_Decor_8: -477232746
+      Outdoor_Decor_80: -1574119490
+      Outdoor_Decor_81: 678836924
+      Outdoor_Decor_82: 1250482574
+      Outdoor_Decor_83: -1073032934
+      Outdoor_Decor_84: 1980908415
+      Outdoor_Decor_85: 663244839
+      Outdoor_Decor_86: -845976453
+      Outdoor_Decor_87: 979668291
+      Outdoor_Decor_88: -1169718707
+      Outdoor_Decor_89: 567559544
+      Outdoor_Decor_9: 174636267
+      Outdoor_Decor_90: -1467288939
+      Outdoor_Decor_91: 590798273
+      Outdoor_Decor_92: -948418938
+      Outdoor_Decor_93: 2069613567
+      Outdoor_Decor_94: 2049963904
+      Outdoor_Decor_95: -928220826
+      Outdoor_Decor_96: -183156266
+      Outdoor_Decor_97: 1136273386
+      Outdoor_Decor_98: -918399555
+      Outdoor_Decor_99: 459838921
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

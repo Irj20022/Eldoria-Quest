@@ -1,0 +1,2314 @@
+fileFormatVersion: 2
+guid: bdfe18a09f926fc409c68f6ac7d38fd8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flowers_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 146
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70170282140ab1349a7a0b1d452a7249
+      internalID: -610511125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 146
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7e0f8a61c2af644a118f16cf366a94
+      internalID: 1266505443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 146
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796ce7b20cc2534439de2314371d1c27
+      internalID: 490598079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 146
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358a817b2e3790d4fa43e749fe5ee15e
+      internalID: -2018630519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 146
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34f87e0eff774247a7d3a0274e6dfc8
+      internalID: 565305294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 145
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764492617668d9147afefdfb4ae1c515
+      internalID: 254956075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 145
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a706b6dfb136745a205f026dc5d3f0
+      internalID: -63356972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_7
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 145
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f499fe21df7854aaebdeeefbd32d1c
+      internalID: -173340500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 145
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd37c470d61528e4d83bc02a8636c0ae
+      internalID: -853312984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 145
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db5f4a73e5a3e74595aadae931fbdff
+      internalID: 2120201898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 130
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a942f2b0ea965894e93de1679461ea68
+      internalID: -48936989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_11
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 130
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0cb19b8a5d0984bb1160bd4e911d9f
+      internalID: -483228777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 130
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1297d680f276cc7418c873b17ad46e9f
+      internalID: 1308241912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 130
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59864d85bfae9414682adce91375b7f6
+      internalID: -65894619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_14
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 130
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f25e567db101b54c87d867f60225597
+      internalID: -215115277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_15
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 129
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398d47b40287a794fb8184f70ce370b9
+      internalID: -1982473724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 129
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8fa765ad4b709439ee1abeed0e8b5d
+      internalID: -920570059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_17
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 129
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9906e337bfb9e347bc96d8e843f75a4
+      internalID: 1976636758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_18
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 129
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f571dc23ba25e488f455cd0524d2cb
+      internalID: 1681862574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_19
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 129
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e30cde589d07c44b477826b570ac16
+      internalID: -1779982226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 114
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78018b2f84ee2247bcb35ad248936dd
+      internalID: -1612352295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 114
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fabee5e5cc7814e9d8ba8e995cbc2a
+      internalID: -162163364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_22
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 114
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c511bac4d547d34ea60802a9b94a0bf
+      internalID: -1088800298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_23
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 114
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fae3d70d904c7b43bdec029ec9af144
+      internalID: -537413764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 114
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f523fa3705b71ca4d824d7c945f3b86f
+      internalID: -1152397706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_25
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 113
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b0a869e0903134d822600929426b6f
+      internalID: -171500861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_26
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 113
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dfb2b4e1a694d498671dfacadf036d
+      internalID: -1035440489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_27
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 113
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f764c7fe6d5229418ce951403fee78d
+      internalID: -513212454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 113
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7549706476f542b4aa276f2d821a176e
+      internalID: -1284066538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_29
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 113
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de909e4267ad85247b006f32bfd150b4
+      internalID: -1138609905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 98
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f3a2f42e3a0424ea9d805aee3858cd
+      internalID: 691550678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_31
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 98
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453aa51d1cde0884186294cd769cfc0c
+      internalID: 1457099943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_32
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 98
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f614614d5a5f4046b770492e7f43945
+      internalID: -1200155908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_33
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 98
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd49c598497078488ff55f2d2496426
+      internalID: 470363935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_34
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 98
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918108989e6697c429dd14515c8e388b
+      internalID: -1484410349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_35
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 97
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2fc06f11a4ae94f9c460e6ce412b4c
+      internalID: 250296372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_36
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 97
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78f0b8e992ba8d4e87f20d7556040bf
+      internalID: -1399390283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_37
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 97
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af12875c9e02c8d4397fe11cf96f771d
+      internalID: -868676221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_38
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 97
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5357555ee87cc4e84c26c649baab4e
+      internalID: 1494980860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_39
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 97
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5f2b43c115ac14a9b05458850cfde6
+      internalID: 1838109571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 82
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c39b60a4e30cbc4d9aedb893b1beb37
+      internalID: -668932517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_41
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 82
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422109097cd624c4e8cd0f322aaf582b
+      internalID: 1446779271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_42
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 82
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5a034628e0eec44995386d9f04d254
+      internalID: 1043530756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_43
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 82
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ec66c705a0bea44881618b9bc402f5
+      internalID: -1089597679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_44
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 82
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd2a5cc41be7c44a9532ed6c1b5ac86
+      internalID: 1836891646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 48
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42eac4039edca6b4591cd2564d21a937
+      internalID: 808384328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 66
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6a9bca1ec034e4994907884e016674
+      internalID: -1810345392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_51
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 66
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c9cd9bc73e9ce4e9777d6d4f81c662
+      internalID: -534966203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_52
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 66
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3294f1f3fac774e862d80310200c4a
+      internalID: 492285339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_53
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 66
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c71403b37220e34cb3b31362eda2b3b
+      internalID: -1090498739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_54
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 66
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5672a074065d13245a5e4b5d697c19e4
+      internalID: 1031602270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 49
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf342c72abd6f3b4b937e81bfb7ef359
+      internalID: -1187775970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_56
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 49
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83871d9f6dc1bb4484847880f82f89c
+      internalID: -95695374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_57
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 49
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a4366596676ca47bff0ae50d641a0b
+      internalID: -1584860889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_58
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 49
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d345b3cc73082428c0c9f40b4428a0
+      internalID: 806364810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_59
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 49
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610be901efe7bab4286f10a669dacc05
+      internalID: 497624812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 33
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba94e42fd47619d4ca331011266a4f12
+      internalID: 34688572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_61
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 33
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0f7467ad207ea439a6914d9f874e73
+      internalID: 930829869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_62
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 33
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6602c8628c723bd4bbaecf380bf70d63
+      internalID: -1898448863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_63
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 33
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab499c37d9978ab408c11959c76eb40b
+      internalID: 393242427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_64
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 33
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad25e677c1ac7ca448f4c7a84130e141
+      internalID: 1197783710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_65
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 18
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc6236959788a34a83b75ec898161a5
+      internalID: 217726638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_66
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 18
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74474ca51f1cbc44a35b11cbf765fd1
+      internalID: 751385686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_67
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 18
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2ef167475815c46abd330034cd2eb2
+      internalID: 919590726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_68
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 18
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d81094e54d90584b8d15da9e3af453e
+      internalID: 899403258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_69
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 18
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f001c152cd8394b8261663085c646e
+      internalID: 591125440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_70
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2a19dbe58174f41bef33e6735cd60d
+      internalID: 716440563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_71
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405ebdf12adeddd4d91c55e15b5bba03
+      internalID: -212875758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_72
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50efc66f9ea377443b7df0480a2a937f
+      internalID: -909826721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_73
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffd6f0475b2e9d4a8cad66b492bf845
+      internalID: -1394114694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_74
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2722da148713f8345a7331fc048b9948
+      internalID: 1743190819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_75
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 64
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc7364bd9284804689f4af3b663ed78
+      internalID: 472110572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_76
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 80
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11728b4dc7e8bc64ca08e82350e255d4
+      internalID: 1223629832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_77
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 32
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d564819ddea8604458df522b22978db4
+      internalID: -873719569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_78
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 16
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad06ac44914ae3c44993c091af04bd80
+      internalID: 912314021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_79
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1516a8451547d3448fd9121be1fc72b
+      internalID: 1511724998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_46
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 80
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26eb7751312b984d97cb9d01528cec3
+      internalID: 1539138074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_47
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 80
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46ce45cd5659ff41bdb4d9fc255f753
+      internalID: 743166515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_48
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 80
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c406f3d3fbddb4246a1436de87bd4d31
+      internalID: 289024085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_49
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 80
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4b7a6f3e34c50468ac7b3cf4190c9b
+      internalID: 1388988438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_80
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 64
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace749b1a3dc2ad448f3dc733e354f9f
+      internalID: -639319281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_81
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 64
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edcdb0232b582e40af802791bf6252d
+      internalID: 1096360643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_82
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 64
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b074e3973ded57458482587912b853c
+      internalID: -1248525832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_83
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 64
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415c008785e0aa248a2083bca580e812
+      internalID: 48315502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_84
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 48
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45d9283aac417b4182a2f41ca378701
+      internalID: -1212458612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_85
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 48
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a79ffc1e800bbd47bda03643472e8d6
+      internalID: -541242035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_86
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 48
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9111517cac261f64d853a5ba1ba8cc27
+      internalID: 2083698375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_87
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 48
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1154d2b21ef1274aa940431efad3df1
+      internalID: -1552627431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_88
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 32
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f79adb524d83f4697f59a548cbe118
+      internalID: 29673355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_89
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 32
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679337959e8141e4e9d68251b358c3cc
+      internalID: -1601189878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_90
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 32
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f094593f40717d844be65c8594c50659
+      internalID: 379603498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_91
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 32
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087e1fc1171a68742ba2f7c5caed3cc3
+      internalID: 801608943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_92
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 16
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee232b98911fe544a500bde45d69bd4
+      internalID: -154339267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_93
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 16
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d437384e69ca4c41a314d5476dc495b
+      internalID: 945719508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_94
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 16
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3d38d157e3b88448f222e64a00f647
+      internalID: 987690051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_95
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 16
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e033aa2485326e4ba0ecc085c39f748
+      internalID: 1650240931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_96
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4bbafab513c09408973ad27739c11a
+      internalID: -960415786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_97
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d107cc98285df5f4692ab35fa0e2d799
+      internalID: -1351044449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_98
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4ce0632e6d0144c930e61e56803508
+      internalID: -399768736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers_99
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87cf6c1ce06e184b8d1e90e3361b481
+      internalID: -1093529937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Flowers_0: -610511125
+      Flowers_1: 1266505443
+      Flowers_10: -48936989
+      Flowers_11: -483228777
+      Flowers_12: 1308241912
+      Flowers_13: -65894619
+      Flowers_14: -215115277
+      Flowers_15: -1982473724
+      Flowers_16: -920570059
+      Flowers_17: 1976636758
+      Flowers_18: 1681862574
+      Flowers_19: -1779982226
+      Flowers_2: 490598079
+      Flowers_20: -1612352295
+      Flowers_21: -162163364
+      Flowers_22: -1088800298
+      Flowers_23: -537413764
+      Flowers_24: -1152397706
+      Flowers_25: -171500861
+      Flowers_26: -1035440489
+      Flowers_27: -513212454
+      Flowers_28: -1284066538
+      Flowers_29: -1138609905
+      Flowers_3: -2018630519
+      Flowers_30: 691550678
+      Flowers_31: 1457099943
+      Flowers_32: -1200155908
+      Flowers_33: 470363935
+      Flowers_34: -1484410349
+      Flowers_35: 250296372
+      Flowers_36: -1399390283
+      Flowers_37: -868676221
+      Flowers_38: 1494980860
+      Flowers_39: 1838109571
+      Flowers_4: 565305294
+      Flowers_40: -668932517
+      Flowers_41: 1446779271
+      Flowers_42: 1043530756
+      Flowers_43: -1089597679
+      Flowers_44: 1836891646
+      Flowers_45: 808384328
+      Flowers_46: 1539138074
+      Flowers_47: 743166515
+      Flowers_48: 289024085
+      Flowers_49: 1388988438
+      Flowers_5: 254956075
+      Flowers_50: -1810345392
+      Flowers_51: -534966203
+      Flowers_52: 492285339
+      Flowers_53: -1090498739
+      Flowers_54: 1031602270
+      Flowers_55: -1187775970
+      Flowers_56: -95695374
+      Flowers_57: -1584860889
+      Flowers_58: 806364810
+      Flowers_59: 497624812
+      Flowers_6: -63356972
+      Flowers_60: 34688572
+      Flowers_61: 930829869
+      Flowers_62: -1898448863
+      Flowers_63: 393242427
+      Flowers_64: 1197783710
+      Flowers_65: 217726638
+      Flowers_66: 751385686
+      Flowers_67: 919590726
+      Flowers_68: 899403258
+      Flowers_69: 591125440
+      Flowers_7: -173340500
+      Flowers_70: 716440563
+      Flowers_71: -212875758
+      Flowers_72: -909826721
+      Flowers_73: -1394114694
+      Flowers_74: 1743190819
+      Flowers_75: 472110572
+      Flowers_76: 1223629832
+      Flowers_77: -873719569
+      Flowers_78: 912314021
+      Flowers_79: 1511724998
+      Flowers_8: -853312984
+      Flowers_80: -639319281
+      Flowers_81: 1096360643
+      Flowers_82: -1248525832
+      Flowers_83: 48315502
+      Flowers_84: -1212458612
+      Flowers_85: -541242035
+      Flowers_86: 2083698375
+      Flowers_87: -1552627431
+      Flowers_88: 29673355
+      Flowers_89: -1601189878
+      Flowers_9: 2120201898
+      Flowers_90: 379603498
+      Flowers_91: 801608943
+      Flowers_92: -154339267
+      Flowers_93: 945719508
+      Flowers_94: 987690051
+      Flowers_95: 1650240931
+      Flowers_96: -960415786
+      Flowers_97: -1351044449
+      Flowers_98: -399768736
+      Flowers_99: -1093529937
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

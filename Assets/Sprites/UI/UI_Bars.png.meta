@@ -1,0 +1,1720 @@
+fileFormatVersion: 2
+guid: ae80837c19617e74f828631d4ecb5e3e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_Bars_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 108
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9867e6b230fc841bf441fbabc78299
+      internalID: 691298134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 118
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfbc02cdfef1a047bea600ba310add2
+      internalID: -188379131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 114
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0bb73689d1b3a41b59c5e405233bfa
+      internalID: 2137106495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 114
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d274d4d10d259a94fbdb9ff43362592e
+      internalID: -817643519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 103
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753fe6ac9be090e4eb172ff0d5535a09
+      internalID: -575851047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 89
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46abed3a85b1db4cb1a0b95a68e2f0c
+      internalID: 26517491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 89
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063415c3b1ef66c4f8a0688db1a8a943
+      internalID: -950540565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_7
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 89
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86116779d49cb9438f3efdb3094e231
+      internalID: -1816119901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 89
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5bc08740f306b4dadd598acd435d66
+      internalID: 1257365512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 89
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a51c16a6d9f5d54da3e363b0bb92bea
+      internalID: -1586330303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 89
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ebdbc1b55ad3647a29d3c3bf541edd
+      internalID: 1245735249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 71
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd7ab1d34a88164f9e40fed2b267782
+      internalID: -1054230857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 81
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e7fb50efc08bd4e9912fa33c62a7cf
+      internalID: 458216921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 81
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94da92d4cab119b408c30e13731613d9
+      internalID: -1506410826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 81
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146f77ac977b21241b24093b0892e5a8
+      internalID: -859266927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 81
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d6f8a30d925624c820e6abe50e6905
+      internalID: -769945149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_16
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 81
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd3820bfb642ad4d9c3b95bc3ad51c2
+      internalID: 813268128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_17
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 82
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372c4b75aed27ce4a857bca26e8f0b65
+      internalID: -821418479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 73
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd0988eac34f9e48b0cdd0a415f91c4
+      internalID: 1986332290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_19
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 73
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a453ea091cf6241984237ab6a1586e
+      internalID: -1354201006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_20
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 73
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3311c8515792c1b4db8d304990d1bfbc
+      internalID: -517180654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 73
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9e394b0baec4949babbab185d80e17
+      internalID: 1130240800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_22
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 73
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afef733b221ab0346aa94eadf6823e61
+      internalID: 1008459281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 74
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73cc2df3e9c0524c86fa377aa0b3d48
+      internalID: 1173933322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 65
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590de1520525d9e4793a80d9be0e9073
+      internalID: -1341761159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 65
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9644bc2110dbc4698c2986f3cdcd5d
+      internalID: 643498983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_26
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 65
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fd62512af014742905306a5d5aa287
+      internalID: 1645339585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_27
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 65
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05412c7e5ede43046bf29595f5ddbeba
+      internalID: 832585796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_28
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 65
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56b033f85ae1e642b03bc47c44ff59c
+      internalID: -161894059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_29
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 66
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0237fbb91dc464f95adf52ae3dec42
+      internalID: -1259099302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 57
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d837bc99046ec488ff8a70f5677a36
+      internalID: -137883928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_31
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 57
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0e294cb0f1a1d438ec6fc37a40bdd7
+      internalID: 659841646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_32
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 57
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da7ec1170c4bc04db4d64d94b859e29
+      internalID: -1062152711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_33
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 57
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74bee80efc78054ea202c80f3783b15
+      internalID: 521151588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_34
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 57
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53770418dbdbc044b93de66b9315aa0
+      internalID: -896169455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_35
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 58
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20f117000216424580298647dd804f5
+      internalID: 1161292409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 49
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3976639eff99a4597047b5efef958b
+      internalID: 478843016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_37
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 49
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9582fc13af01e4ea887c801e5cadeb
+      internalID: 71441860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_38
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 49
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672974da14fefa04b8f7aa9ba11f31af
+      internalID: -538472382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_39
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 49
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7c6220cd7719e438673a2340d30b6c
+      internalID: 791056400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_40
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 49
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2208fd48a25ad47b4030359248f3f2
+      internalID: -7877436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 11
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c98dcf40b1e59d44bda2f47921afa99
+      internalID: -1907202583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 34
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab68d4973535217448d2aca6efb4c0d5
+      internalID: 1058093291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 41
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0c8a37cbe373244af005bb312eabb4
+      internalID: -991139787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 34
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6635da76bca40b8418bc231804a3e7bb
+      internalID: -1329779872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_45
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 41
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2b7c76dc542b443a6bee752087aa92
+      internalID: -967450115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_46
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 34
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc4036b91dc89c4995422c6e5ad7e58
+      internalID: 91514365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_47
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 41
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9b0d5520e33e242a460d80dbc2496c
+      internalID: 522518649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_48
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 34
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cfb93ed79b93944af37fbbe4fea285
+      internalID: 1449498329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_49
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 41
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f473e4ec97e1ac0448db8f0bc99a9e98
+      internalID: 1377914658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_50
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 34
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3353d8fe67486744ca3ca16c0435bbce
+      internalID: -780438771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_51
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 41
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f469452edf7b2f04191a194536a2a2e3
+      internalID: 313978984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_52
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 35
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef4bc53251d90f4b92683de928dc913
+      internalID: 1391421663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_53
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 25
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5b8d4f0218ee74db239145d2d374d5
+      internalID: -124131249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_54
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 25
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9c0c6150726ae49bbd0849689be75c
+      internalID: -153710375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_55
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 25
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce3c9fa892eff248afd86d1f064664a
+      internalID: -405922953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_56
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 25
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e530032d89c88d845b4e4ca3b85ab4d9
+      internalID: 1486482140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_57
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 25
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa177d1b091350142863593dd7216209
+      internalID: 412018197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_58
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 18
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c000b5f5d864a934288571347272510d
+      internalID: -153386764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_59
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 18
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6edf55f5f9d6e43a2fa801d4f02e2c
+      internalID: 1849444405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_60
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 18
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17ce2353cb536942b5726c4d038f8a6
+      internalID: -1590118866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_61
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 18
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da0120942c0de844b67b2583f97f044
+      internalID: -639950281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_62
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 18
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c77a362f69853d45bdf8f42118ba6df
+      internalID: -1684471063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0845225fd351a6d49bf3302c8b5a9f5d
+      internalID: -2115537256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_64
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 9
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0130e0278064ab348ab19a277751730b
+      internalID: 1693765991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_65
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 9
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1512fdae5dd31734e88c9c2e8b73907b
+      internalID: -1392356522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_66
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 9
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfa5b971907e0a4f8bef115dbfe9439
+      internalID: -469601637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_67
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 9
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae766e5f5f5621446bad7115f17bdfc9
+      internalID: 458467046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad41c06d0c83b6c4aa4b7ecacaf815c1
+      internalID: 1748544684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_69
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c01155842df3284ebf1e6a70ed02e07
+      internalID: -1599967080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_70
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12878a50f6bfec4983e065aed87cd85
+      internalID: 1891586901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_71
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e55d9b1371831439d848345b3e767c
+      internalID: 1488591502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Bars_72
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb63ecc9e50e00499da211bd2801ed4
+      internalID: 1913438402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UI_Bars_0: 691298134
+      UI_Bars_1: -188379131
+      UI_Bars_10: 1245735249
+      UI_Bars_11: -1054230857
+      UI_Bars_12: 458216921
+      UI_Bars_13: -1506410826
+      UI_Bars_14: -859266927
+      UI_Bars_15: -769945149
+      UI_Bars_16: 813268128
+      UI_Bars_17: -821418479
+      UI_Bars_18: 1986332290
+      UI_Bars_19: -1354201006
+      UI_Bars_2: 2137106495
+      UI_Bars_20: -517180654
+      UI_Bars_21: 1130240800
+      UI_Bars_22: 1008459281
+      UI_Bars_23: 1173933322
+      UI_Bars_24: -1341761159
+      UI_Bars_25: 643498983
+      UI_Bars_26: 1645339585
+      UI_Bars_27: 832585796
+      UI_Bars_28: -161894059
+      UI_Bars_29: -1259099302
+      UI_Bars_3: -817643519
+      UI_Bars_30: -137883928
+      UI_Bars_31: 659841646
+      UI_Bars_32: -1062152711
+      UI_Bars_33: 521151588
+      UI_Bars_34: -896169455
+      UI_Bars_35: 1161292409
+      UI_Bars_36: 478843016
+      UI_Bars_37: 71441860
+      UI_Bars_38: -538472382
+      UI_Bars_39: 791056400
+      UI_Bars_4: -575851047
+      UI_Bars_40: -7877436
+      UI_Bars_41: -1907202583
+      UI_Bars_42: 1058093291
+      UI_Bars_43: -991139787
+      UI_Bars_44: -1329779872
+      UI_Bars_45: -967450115
+      UI_Bars_46: 91514365
+      UI_Bars_47: 522518649
+      UI_Bars_48: 1449498329
+      UI_Bars_49: 1377914658
+      UI_Bars_5: 26517491
+      UI_Bars_50: -780438771
+      UI_Bars_51: 313978984
+      UI_Bars_52: 1391421663
+      UI_Bars_53: -124131249
+      UI_Bars_54: -153710375
+      UI_Bars_55: -405922953
+      UI_Bars_56: 1486482140
+      UI_Bars_57: 412018197
+      UI_Bars_58: -153386764
+      UI_Bars_59: 1849444405
+      UI_Bars_6: -950540565
+      UI_Bars_60: -1590118866
+      UI_Bars_61: -639950281
+      UI_Bars_62: -1684471063
+      UI_Bars_63: -2115537256
+      UI_Bars_64: 1693765991
+      UI_Bars_65: -1392356522
+      UI_Bars_66: -469601637
+      UI_Bars_67: 458467046
+      UI_Bars_68: 1748544684
+      UI_Bars_69: -1599967080
+      UI_Bars_7: -1816119901
+      UI_Bars_70: 1891586901
+      UI_Bars_71: 1488591502
+      UI_Bars_72: 1913438402
+      UI_Bars_8: 1257365512
+      UI_Bars_9: -1586330303
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

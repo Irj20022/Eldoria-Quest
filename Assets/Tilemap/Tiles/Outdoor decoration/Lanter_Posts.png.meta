@@ -1,0 +1,1698 @@
+fileFormatVersion: 2
+guid: 56659a9eed7ecf54fabe8ac1179183be
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lanter_Posts_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 528
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a7788d341659d4ea776249a85e7e8a
+      internalID: 1030474046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 528
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69760d1bc470f2b4093b4a97e8efa77d
+      internalID: 671450492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 528
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59df229d76ee05b44bebcffe9a82e846
+      internalID: 209507435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 528
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c057250756c87498ff51a402ae6a5b
+      internalID: 291542436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 528
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76352538f3ec5574e9cf08ac81d77476
+      internalID: -6085574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 528
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73ac19e569387748be0d219bbd7415e
+      internalID: -2108241550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 480
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da034d2935173044bde39690a8c2a6b
+      internalID: -999192699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 480
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80e4c108eafb0048b1c471fa76dc09a
+      internalID: -680308068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 480
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0431b2ca54e64fc48964a65bbbf2e4ce
+      internalID: 2124725438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 480
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb091aeb9788b0c4f98f58437295dcab
+      internalID: -1045673477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 480
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac2cc77fd98f9f4b9401ea65e52b402
+      internalID: 1946788397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 480
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639c0ad2dc1b7f347a19681f63810873
+      internalID: 901700102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 432
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36187a9c5b72444bb6e187da379a191
+      internalID: 537377587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_13
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 432
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b518a8cc1386ebf4da383cc04b189a8d
+      internalID: 1568468619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_14
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 432
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb4ea62ac4bb56449136fd3a27f21fc
+      internalID: -968164320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_15
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 432
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebc7204fd1fbc4439a4c594e928c41b
+      internalID: -21613221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 432
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830f86cb540a24c499176954881b0166
+      internalID: 263920360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_17
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 432
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5f87338faa3514cb5ae3f1d0ed0825
+      internalID: -443336560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 384
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5757ca7eccde149b13cfe64519c0b7
+      internalID: 8605706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_19
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 384
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bdc33aa3fb52b40bf0f17a19098631
+      internalID: -1257635796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_20
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 384
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7303d538dc9e58f4ba10752e282fbfca
+      internalID: -1140855773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_21
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 384
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2196786f3c2034880eeb26b02fad53
+      internalID: -387166029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_22
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 384
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03a73584d035ae4bbbf4460b42c62fe
+      internalID: -1837493700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_23
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 384
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6413fd8b2478cbb42892e9b97fb916c6
+      internalID: 937069745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 336
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182eb7c2306530e4caaf33955ab738bc
+      internalID: 294409463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_25
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 336
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00688cf3ed879314cabe5bb9b74ae4d2
+      internalID: -1025906791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_26
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 336
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b14e5a8247eaa49a9345213a0656f6
+      internalID: 632550013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_27
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 336
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe474d92532d92e4aab98ba4a66dfe83
+      internalID: 1380187598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_28
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 336
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc47053febe01c34394376cd9bd2fe54
+      internalID: -381041428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 336
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dec59b4d2e2e184abcedaff5472e184
+      internalID: 946090721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 288
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4062bb471f553049a527801aba69165
+      internalID: 1190114338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_31
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 288
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeaa52de5a1b07143a62fce2232d610b
+      internalID: -509151338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_32
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 288
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80de3b1137692984faf81e67d9ddcf45
+      internalID: -1433019091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_33
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 288
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eddc1afa67ca6f49a92ef016bfe3032
+      internalID: 957298575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_34
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 288
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4c3556e402d824eadbfb8ed0c0e609
+      internalID: -1563569006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_35
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 288
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6b4c8eb425c6742b974fb00a850869
+      internalID: -1515156786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 240
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5edfc91e9168e64783b51fc8763f7b7
+      internalID: 1327804142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_37
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 240
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0c6f4f331d6674ea3da6329f9ff930
+      internalID: 2142427045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_38
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 240
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad69fd41030301c448d7baec49915914
+      internalID: -1184904014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_39
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 240
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09788e3889a7884795e1094e8365097
+      internalID: -1102711172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_40
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 240
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd764dc04e233b4a9760daf7d3a02c1
+      internalID: -499880892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_41
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 240
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a1e1f1859548a449c05e148d9e9e27
+      internalID: 641483354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 192
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b14f1d9ad76f6478651efe31cc44df
+      internalID: -764257141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_43
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 192
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7727ca29ec227594da526a69a136968e
+      internalID: 1317241766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_44
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 192
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08906921e4263b44292afc3a9e36378a
+      internalID: 767421565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_45
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 192
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5513f9a6bbc269c4ca7b5aaeb74f34bd
+      internalID: -1960026611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_46
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 192
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51237661bccf2f408018d8e6b7fc9d4
+      internalID: 1273315629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_47
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 192
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ec37065c1999f4db4b618a00741998
+      internalID: 1643742631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 144
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620967dfc62cc8f4bba34d9c170f250f
+      internalID: 2024501852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_49
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 144
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f986619787806a45897ae21e61120ec
+      internalID: 542307199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_50
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 144
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616a7a0bb6e68924584f9856e1f7d48a
+      internalID: -669654406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_51
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 144
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1c13ede243b0748b941cf5221c611c
+      internalID: 1204946646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_52
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 144
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ac5096605add94eb07f567e7cd18d7
+      internalID: -734845195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_53
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 144
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a7b69855dfb974e9c1bfb9a3a23b2e
+      internalID: -1250376128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_54
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 96
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c4ffb17e409694aad3242dcb60e45b
+      internalID: -1455786201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_55
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 96
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00d8fe9c8626f14c98c941ce8af67a6
+      internalID: -1275343503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_56
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 96
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18fb6c1829c3b14aa089249e50331ad
+      internalID: -1017159662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_57
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 96
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca213ec2422093c4aac6aee8eb846570
+      internalID: -1548774316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_58
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 96
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542e906a6d355504f96d5b5485f3f511
+      internalID: 316836924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_59
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 96
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c68ef16c772a3409d8e138118397a1
+      internalID: 294848551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 48
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e428b05048263904eaf926bd61144ad8
+      internalID: -422424830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_61
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 48
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becd9af83ea53c04489176e18fe62195
+      internalID: 1386275648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_62
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 48
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1050950c1c35ed7478eda46bbb3aab56
+      internalID: -727971164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_63
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 48
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac9af1cbcf71464aa77e3e4616f95b3
+      internalID: 948486572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_64
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 48
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdb58f81e5e9f341bebef7a3b02f2f8
+      internalID: -1409954778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_65
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 48
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d0ba2ec64e74e4e85acf549fc9986d
+      internalID: -1743809895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_66
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1125f36cd6f931f448c1e22a6bdce84a
+      internalID: -1260542254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_67
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce768ad981c2cb04384cdbfa786e79c2
+      internalID: 382281260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_68
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848c160bba026fc489473a011c0aca5d
+      internalID: -1224097678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_69
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e12611b7bd2284b92e7a977ee76b44
+      internalID: -1140251289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_70
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f87154055da1a42a273e66946722ae
+      internalID: -904429164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanter_Posts_71
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9038f820d2ea0004a9b9ced5b7e3cfec
+      internalID: 1285073025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Lanter_Posts_0: 1030474046
+      Lanter_Posts_1: 671450492
+      Lanter_Posts_10: 1946788397
+      Lanter_Posts_11: 901700102
+      Lanter_Posts_12: 537377587
+      Lanter_Posts_13: 1568468619
+      Lanter_Posts_14: -968164320
+      Lanter_Posts_15: -21613221
+      Lanter_Posts_16: 263920360
+      Lanter_Posts_17: -443336560
+      Lanter_Posts_18: 8605706
+      Lanter_Posts_19: -1257635796
+      Lanter_Posts_2: 209507435
+      Lanter_Posts_20: -1140855773
+      Lanter_Posts_21: -387166029
+      Lanter_Posts_22: -1837493700
+      Lanter_Posts_23: 937069745
+      Lanter_Posts_24: 294409463
+      Lanter_Posts_25: -1025906791
+      Lanter_Posts_26: 632550013
+      Lanter_Posts_27: 1380187598
+      Lanter_Posts_28: -381041428
+      Lanter_Posts_29: 946090721
+      Lanter_Posts_3: 291542436
+      Lanter_Posts_30: 1190114338
+      Lanter_Posts_31: -509151338
+      Lanter_Posts_32: -1433019091
+      Lanter_Posts_33: 957298575
+      Lanter_Posts_34: -1563569006
+      Lanter_Posts_35: -1515156786
+      Lanter_Posts_36: 1327804142
+      Lanter_Posts_37: 2142427045
+      Lanter_Posts_38: -1184904014
+      Lanter_Posts_39: -1102711172
+      Lanter_Posts_4: -6085574
+      Lanter_Posts_40: -499880892
+      Lanter_Posts_41: 641483354
+      Lanter_Posts_42: -764257141
+      Lanter_Posts_43: 1317241766
+      Lanter_Posts_44: 767421565
+      Lanter_Posts_45: -1960026611
+      Lanter_Posts_46: 1273315629
+      Lanter_Posts_47: 1643742631
+      Lanter_Posts_48: 2024501852
+      Lanter_Posts_49: 542307199
+      Lanter_Posts_5: -2108241550
+      Lanter_Posts_50: -669654406
+      Lanter_Posts_51: 1204946646
+      Lanter_Posts_52: -734845195
+      Lanter_Posts_53: -1250376128
+      Lanter_Posts_54: -1455786201
+      Lanter_Posts_55: -1275343503
+      Lanter_Posts_56: -1017159662
+      Lanter_Posts_57: -1548774316
+      Lanter_Posts_58: 316836924
+      Lanter_Posts_59: 294848551
+      Lanter_Posts_6: -999192699
+      Lanter_Posts_60: -422424830
+      Lanter_Posts_61: 1386275648
+      Lanter_Posts_62: -727971164
+      Lanter_Posts_63: 948486572
+      Lanter_Posts_64: -1409954778
+      Lanter_Posts_65: -1743809895
+      Lanter_Posts_66: -1260542254
+      Lanter_Posts_67: 382281260
+      Lanter_Posts_68: -1224097678
+      Lanter_Posts_69: -1140251289
+      Lanter_Posts_7: -680308068
+      Lanter_Posts_70: -904429164
+      Lanter_Posts_71: 1285073025
+      Lanter_Posts_8: 2124725438
+      Lanter_Posts_9: -1045673477
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
